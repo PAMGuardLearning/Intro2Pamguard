@@ -21,4 +21,6 @@ By the end of the tutorial uses will be familiar with the basic capabilities of 
 _The data map in PAMGuard visualises the output from different automated detectors across the whole dataset. In this tutorial, users will be working with a 3 month dataset recording at 96kHz with a click detector sampling at 576kHz._
 
 ## Getting started
-The tutorial text is located in the repository (Introduction to PAMGuard.pdf). You will also need to download the accompanying dataset from Zenodo. 
+The tutorial text is located in the repository (Introduction to PAMGuard.pdf). You will also need to download the accompanying dataset from Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13880212.svg)](https://doi.org/10.5281/zenodo.13880212)
+
+Risch, D., Quer, S., Edwards, E., Beck, S., Macaulay, J., Calderan, S. (2018). Acoustic data from the Scottish west coast recorded with a single-element recording unit (Scottish Association for Marine Science) doi: 10.5281/zenodo.13880212
