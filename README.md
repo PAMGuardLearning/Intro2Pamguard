@@ -1,7 +1,7 @@
-# Introduction to PAMGuard
+# Introduction to static monitoring in PAMGuard
 
 ## Introduction
-This tutorial is a step by step guide for using PAMGuard to process long term recordings from an autonomous recorder. The tutorial uses example data from a SoundTrap device deployed off the  Scottish West Coast with plenty of dolphin and porpoise encounters. 
+This tutorial is a step by step guide for using PAMGuard to process long term recordings from a static autonomous recorder. The tutorial uses example data from a SoundTrap device deployed off the  Scottish West Coast with plenty of dolphin and porpoise encounters. 
 
 ## Species
 - Dolphins (multiple species)
